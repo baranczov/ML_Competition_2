@@ -1,7 +1,7 @@
 # Kaggle Competition: Прогнозирование отзывов игр Steam
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
+![NLP](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
 ![Competition](https://img.shields.io/badge/Platform-Kaggle-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
